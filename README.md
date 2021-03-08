@@ -3,10 +3,11 @@ Sig2Lead aims to facilitate drug discovery and re-purposing by connecting small 
 
 Installation/Configuration of Sig2Lead_v1
 
-Introduction
-Sig2Lead is available in an RStudio version and as a docker container.  The RStudio version is available on Github and the dockerized version is available on Docker Hub.  The RStudio version requires that R and RStudio be locally installed on the user’s computer and requires the installation of all requisite R packages.  The dockerized version simply requires a web browser to run the app and does not require local installation/configuration of R, RStudio, or R packages.  This manual provides instructions for both versions.  
+Sig2Lead is available as a stand alone R Shiny app that requires RStudio to run and as a docker container.  The RStudio version can simply be downloaded from Github while the dockerized version is available on Docker Hub.  The RStudio version requires that R and RStudio be locally installed on the user’s computer and requires the installation of all requisite R packages.  The dockerized version simply requires a web browser to run the app and does not require local installation/configuration of R, RStudio, or R packages.  This manual provides instructions for both versions.  
+
 Installation/Configuration of RStudio Version
-A.  Installation of R and RStudio
+
+A.  Install R and RStudio
 The latest version of R is required for configuration of Sig2Lead. At the time of writing this manual, that was version 4.0.3. This version can be downloaded at:
 	http://www.r-project.org/
 Additionally, RStudio is needed and can be downloaded at:
