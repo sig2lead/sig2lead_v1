@@ -8,16 +8,19 @@ Sig2Lead is available as a stand alone R Shiny app that requires RStudio to run 
 Installation/Configuration of RStudio Version
 
 A.  Install R and RStudio
+
 The latest version of R is required for configuration of Sig2Lead. At the time of writing this manual, that was version 4.0.3. This version can be downloaded at:
 	http://www.r-project.org/
 Additionally, RStudio is needed and can be downloaded at:
 	https://www.rstudio.com/products/rstudio/download/
 
 B.  Download Sig2Lead from Github
+
 Sig2Lead and associated files can be downloaded from:
 https://github.com/sig2lead/sig2lead_v1/
 
-C.  Installation of Dependencies/Libraries
+C.  Install Required Packages/Libraries
+
 Once R and RStudio are installed, shiny must be installed. This can be completed by typing into the R console:
 install.packages(“shiny”)
         All other dependencies and libraries will be installed upon the first time running the application.
