@@ -22,7 +22,9 @@ https://github.com/sig2lead/sig2lead_v1/
 C.  Install Required Packages/Libraries
 
 Once R and RStudio are installed, R Shiny must be installed. This can be completed by typing into the R console:
+
 install.packages(“shiny”)
-        All other dependencies and libraries will be installed upon the first time running the application.
+
+All other dependencies and libraries will be installed upon the first time running the application.
         This step may not be handled properly on MacOS, requiring a step by step installation of missing libraries. An alternative for Mac users is to use the dockerized version that takes care of all the dependencies.
         To run the application, click the Run App button at the top middle of the RStudio interface.
