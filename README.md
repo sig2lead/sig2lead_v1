@@ -3,7 +3,7 @@ Sig2Lead aims to facilitate drug discovery and re-purposing by connecting small 
 
 For a target gene specified by the user, putative inhibitors are identified as those drug-like molecules in LINCS that have signatures concordant with a KD signature of the target. Note that LINCS arguably represents the largest resource for pharmacogenomics to date, with over 20,000 small molecules and about 5,000 gene KDs transcriptionally profiled, thus covering a large subset of the drug-like chemical space and druggable subset of the genome.  
 
-Furthermore, if a set of candidate molecules is provided, e.g., identified by virtual or experimental screening, these external candidate molecules are ranked based on their chemical similarity to ‘concordant’ LINCS analogs using a fast chemical similarity search. Additionally, Sig2Lead can be used to prepare input files for docking simulations to be performed in conjunction with connectivity-based analysis t improve the specificity of the search (see paper below), as well as identify LINCS analogs irrespective of their connectivity to a target of interest.
+Furthermore, if a set of candidate molecules is provided, e.g., identified by virtual or experimental screening, these external candidate molecules are ranked based on their chemical similarity to ‘concordant’ LINCS analogs using a fast chemical similarity search. Additionally, Sig2Lead can be used to prepare input files for docking simulations to be performed in conjunction with connectivity-based analysis to improve the specificity (see https://www.biorxiv.org/content/10.1101/2020.11.25.399238v1.full), as well as identify LINCS analogs irrespective of their connectivity to a target of interest.
 
 Installation/Configuration of Sig2Lead_v1
 
