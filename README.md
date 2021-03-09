@@ -7,7 +7,7 @@ Furthermore, if a set of candidate molecules is provided, e.g., identified by vi
 
 Installation/Configuration of Sig2Lead_v1
 
-Sig2Lead is available as a stand alone R Shiny app that requires RStudio to run and as a docker container.  The RStudio version can simply be downloaded from Github while the dockerized version is available on Docker Hub.  The RStudio version requires that R and RStudio be locally installed on the user’s computer and requires the installation of all requisite R packages.  The dockerized version simply requires a web browser to run the app and does not require local installation/configuration of R, RStudio, or R packages.  This manual provides instructions for both versions.  
+Sig2Lead is available as a stand alone R Shiny app that requires RStudio to run and as a docker container.  The RStudio version can simply be downloaded from Github while the dockerized version is available on Docker Hub.  The RStudio version requires that R and RStudio be locally installed on the user’s computer and requires the installation of all requisite R packages.  The dockerized version simply requires a web browser to run the app and does not require local installation/configuration of R, RStudio, or R packages.  For instruction regarding the installation of the dockerized version, please see the user manual. 
 
 Installation/Configuration of RStudio Version
 
