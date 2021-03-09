@@ -13,7 +13,7 @@ Installation/Configuration of RStudio Version
 
 A.  Install R and RStudio
 
-The latest version of R is required for configuration of Sig2Lead. At the time of writing this manual, that was version 4.0.3. This version can be downloaded at:
+The latest version of R is required for configuration of Sig2Lead. At the time of writing this README, that was version 4.0.3. This version can be downloaded at:
 	http://www.r-project.org/
 
 Additionally, RStudio is needed and can be downloaded at:
